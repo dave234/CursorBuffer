@@ -8,7 +8,7 @@
 #ifndef CursorBuffer_h
 #define CursorBuffer_h
 
-#include "TPCircularBuffer+AudioBufferList.h"
+#include <TPCircularBuffer/TPCircularBuffer+AudioBufferList.h>
 
 
 
